@@ -3,4 +3,4 @@
 
 Este repositório se destina construção de desafios encontrados da internet a fim de exercitar e aprofunda o conhecimento em CSS.
 
-- [] Logo Instagram 
+- [x] Logo Instagram 
