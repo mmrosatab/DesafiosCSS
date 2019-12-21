@@ -1,0 +1,56 @@
+.logo
+{
+    width: 80px;
+    height: 80px;
+    
+    background-color: purple;
+    border-radius: 22px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle-rec
+{
+    width: 45px;
+    height: 45px;
+    
+    background-color: transparent;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle-circle
+{
+    width: 18px;
+    height: 18px;
+    
+    background-color: transparent;
+    
+    border-radius: 50px;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+}
+
+/*
+.small-circle
+{
+    width: 1px;
+    height: 1px;
+    background-color: white;
+    
+    border-radius: 50px;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px; 
+}*/
