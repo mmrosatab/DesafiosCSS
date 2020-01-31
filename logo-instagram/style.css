@@ -4,9 +4,9 @@
     height: 80px;
     
     background-color: red;
-    background-image: linear-gradient(130deg, blue, purple ,red , yellow); 
+    background-image: linear-gradient(-135deg, blue, purple ,red , yellow); 
     
-    border-radius: 18px;
+    border-radius: 20px;
     
     display: flex;
     flex-direction: column;
