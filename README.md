@@ -9,8 +9,8 @@ Review
 
 - [x] Círculos :star:
 - [x] Retângulos :star:
-- [ ] Esquema de cores :broken_heart:
-- [ ] Tempo :broken_heart:
+- [ ] Esquema de cores :hankey:
+- [ ] Tempo :hankey:
     - Tempo estimado proposto: 30 min / Tempo real: 45 min 
 
 Layout: flexbox e position
