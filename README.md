@@ -3,11 +3,15 @@
 
 Este repositório se destina construção de desafios encontrados da internet a fim de exercitar e aprofunda o conhecimento em CSS.
 
+Enunciado do desafio: https://github.com/frontendbr/forum/issues/238
+
 - Review
 
-- [x] Círculos - OK
-- [x] Retângulos - OK 
-- [ ] Esquema de cores - Fall
+- [x] Círculos - :+1:
+- [x] Retângulos - :+1: 
+- [ ] Esquema de cores - :-1:
+- [ ] Tempo - :-1:
+    - Tempo estimado proposto: 30 min / Tempo real: 45 min 
 
 - Layout
   - flexbox e position
