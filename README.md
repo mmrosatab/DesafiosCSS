@@ -7,10 +7,10 @@ Enunciado do desafio: https://github.com/frontendbr/forum/issues/238
 
 - Review
 
-- [x] Círculos - :+1:
-- [x] Retângulos - :+1: 
-- [ ] Esquema de cores - :-1:
-- [ ] Tempo - :-1:
+- [x] Círculos :two_hearts:
+- [x] Retângulos :two_hearts: 
+- [ ] Esquema de cores :broken_heart:
+- [ ] Tempo :broken_heart:
     - Tempo estimado proposto: 30 min / Tempo real: 45 min 
 
 - Layout: flexbox e position
